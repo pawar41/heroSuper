@@ -1,5 +1,5 @@
 ---
-title: post 2 title
+title: Educated cash cow
 layout: blog
 ---
 
