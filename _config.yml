@@ -13,14 +13,18 @@ quora: "https://www.quora.com/profile/Shantanu-Pawar-68"
 github: "https://github.com/pawar41"
 developers: "https://g.dev/shawnp"
 
-baseurl: "heroSuper" 
+baseurl: /heroSuper 
+#baseurl: /project-name
 
 
 markdown: kramdown
 kramdown:
   input: GFM
 
-title: heroSuper
+title: shawnp410
 
 
 
+#domain: github heroSuper      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+#url: https://pawar41.github.io/heroSuper/  # the base hostname and protocol for your site, e.g. http://example.com
+    # place folder name if the site is served in a subfolder
