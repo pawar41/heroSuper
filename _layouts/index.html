@@ -92,7 +92,7 @@
 
                     {% for post in site.posts limit:10 %}
                         <div class="blog__list">
-                            <a href="{{ post.url }}" id="anchor_clean">
+                            <a href="{{ site.baseurl }}{{ post.url }}" id="anchor_clean">
                                 {{ post.title}}</a>
                         </div>
                     {% endfor %}
