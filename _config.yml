@@ -18,3 +18,8 @@ tumblr: "https://www.tumblr.com/settings/blog/shawnp410"
 quora: "https://www.quora.com/profile/Shantanu-Pawar-68"
 github: "https://github.com/pawar41"
 developers: "https://g.dev/shawnp"
+
+
+domain: pawar41.github.io/heroSuper       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://pawar41.github.io/heroSuper/  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /heroSuper/      # place folder name if the site is served in a subfolder
