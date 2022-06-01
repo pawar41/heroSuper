@@ -2,10 +2,8 @@
 title: girl I build up my confidence
 layout: blog
 ---
-
+<h2> I wnated to ASK OUT this MOSTTT BEAUTIFUL! and CUTEST! Girl in my collage. </h2>
 <p class="blog__list">
-I wnated to ASK OUT this MOSTTT BEAUTIFUL! and CUTEST! Girl in my collage.
-<br>
 No KIDDING! She is the most beautiful girl; I have ever seen IN my LIFE.
 </p>
 
@@ -25,7 +23,7 @@ Well believe it or not, you might have imposter syndrome( feeling that you aren'
 if not that, you have some reason, that makes you undeeconfident.
 <br>
 Here are some reasons/ conditions present in your life:
- <ul>
+ <ul style="color: inherit;">
   <li>You can talk with known persons/ buddies with confidence.</li>
   <li>You aren't involved in social activities/social gatherings.</li>
   <li>You either haven't been consistent in your goals or haven't even set goals.</li>
@@ -33,7 +31,7 @@ Here are some reasons/ conditions present in your life:
   <li>You are mentally unstable; generally overthink or overfantacize situations.</li>
   <li>Also, you aren't working on anything that will stablize you mentally.</li>
   <li>Your environment is messed up:
-    <ul>
+    <ul style="color: inherit;">
       <li>Messy and unorganized house.</li>
       <li>Stress between family members (probably will single parent).</li>
       <li>Stressful neighbourhood.</li>
@@ -43,3 +41,10 @@ Here are some reasons/ conditions present in your life:
 </p>
 
 <h2> Your Brain isn't DUMB FU*K! </h2>
+<p class="blog__list">
+Bro, your brain isn't dumb! It sees your mind, body and environment is Fucked UP! 
+It will be obvious, that you aren't in best form of your.
+<br>
+You will feel sorry for yourself, feel underconfident, 
+infact you will also try to exploit the power/ authority that you have
+</p>
