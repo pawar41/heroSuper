@@ -3,7 +3,7 @@ title: girl I build up my confidence
 layout: blog
 ---
 <h2> I wnated to ASK OUT this Most Beautiful! and Cutest! Girl in my collage. </h2>
-<img src="https://images.pexels.com/photos/935789/pexels-photo-935789.jpeg" alt="Shawn P" width="500" height="600">
+<img src="https://live.staticflickr.com/65535/52115346024_a9c164a5a1_o.jpg" alt="shy guy trying to prupose" width="100%" height="auto">
 
 <p class="blog__list">
 No KIDDING! She is the most beautiful girl; I have ever seen IN my LIFE.
@@ -15,7 +15,7 @@ I have social anxiety, I am introvert and find it hard to get friends.
 <br>
 How do I look? Here's my pic below:
 <br>
-<img src="https://images.pexels.com/photos/935789/pexels-photo-935789.jpeg" alt="Shawn P" width="500" height="600">
+<img src="https://images.pexels.com/photos/935789/pexels-photo-935789.jpeg" style="float: center;" alt="Shawn P" width="50%" height="auto">
 <br>
 You can judge the rest.
 </p>
