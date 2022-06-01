@@ -24,17 +24,17 @@ if not that, you have some reason, that makes you undeeconfident.
 <br>
 Here are some reasons/ conditions present in your life:
  <ul style="color: inherit;">
-  <li>You can talk with known persons/ buddies with confidence.</li>
-  <li>You aren't involved in social activities/social gatherings.</li>
-  <li>You either haven't been consistent in your goals or haven't even set goals.</li>
-  <li>You are obesse, or addicted to drugs, sugary drink, fast foods (unhealthy foods), alchahol.</li>
-  <li>You are mentally unstable; generally overthink or overfantacize situations.</li>
-  <li>Also, you aren't working on anything that will stablize you mentally.</li>
-  <li>Your environment is messed up:
+  <li style="color: inherit;">You can talk with known persons/ buddies with confidence.</li>
+  <li style="color: inherit;">You aren't involved in social activities/social gatherings.</li>
+  <li style="color: inherit;">You either haven't been consistent in your goals or haven't even set goals.</li>
+  <li style="color: inherit;">You are obesse, or addicted to drugs, sugary drink, fast foods (unhealthy foods), alchahol.</li>
+  <li style="color: inherit;">You are mentally unstable; generally overthink or overfantacize situations.</li>
+  <li style="color: inherit;">Also, you aren't working on anything that will stablize you mentally.</li>
+  <li style="color: inherit;">Your environment is messed up:
     <ul style="color: inherit;">
-      <li>Messy and unorganized house.</li>
-      <li>Stress between family members (probably will single parent).</li>
-      <li>Stressful neighbourhood.</li>
+      <li style="color: inherit;">Messy and unorganized house.</li>
+      <li style="color: inherit;">Stress between family members (probably will single parent).</li>
+      <li style="color: inherit;">Stressful neighbourhood.</li>
     </ul>
   </li>
 </ul>  
