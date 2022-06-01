@@ -15,7 +15,7 @@ I have social anxiety, I am introvert and find it hard to get friends.
 <br>
 How do I look? Here's my pic below:
 <br>
-<img src="https://live.staticflickr.com/65535/52115149323_8e73acc8ec_o.jpg" style="float: center;" alt="Shawn P" width="460" height="460">
+<img src="https://live.staticflickr.com/65535/52115149323_8e73acc8ec_o.jpg" style="max-width: 460px;" alt="Shawn P" width="100%" height="auto">
 <br>
 You can judge the rest.
 </p>
