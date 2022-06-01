@@ -2,7 +2,7 @@
 title: girl I build up my confidence
 layout: blog
 ---
-<h2> I wnated to ASK OUT this MOSTTT BEAUTIFUL! and CUTEST! Girl in my collage. </h2>
+<h2> I wnated to ASK OUT this Most Beautiful! and Cutest! Girl in my collage. </h2>
 <p class="blog__list">
 No KIDDING! She is the most beautiful girl; I have ever seen IN my LIFE.
 </p>
@@ -46,5 +46,20 @@ Bro, your brain isn't dumb! It sees your mind, body and environment is Fucked UP
 It will be obvious, that you aren't in best form of your.
 <br>
 You will feel sorry for yourself, feel underconfident, 
-infact you will also try to exploit the power/ authority that you have
+infact you will also try to exploit the power/ authority on the weaker.
+<br>
+Let's say you are babysitting some child,
+you will try to exercise your power here;
+which you coundn't exercise out in real world.
+<br>
+In real world you will be initially shy and introvert;
+later you will be either people pleasing or will try to avoid people.
+<br>
+The point here is,
+that don't think you could fake confidence,
+nither acting it out will help! Your Brain is real smart!
+</p>
+
+<h2> h </h2>
+<p class="blog__list">
 </p>
