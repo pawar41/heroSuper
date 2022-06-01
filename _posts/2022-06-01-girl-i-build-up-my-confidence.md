@@ -23,7 +23,7 @@ Well believe it or not, you might have imposter syndrome( feeling that you aren'
 if not that, you have some reason, that makes you undeeconfident.
 <br>
 Here are some reasons/ conditions present in your life:
- <ul style="color: inherit;">
+ <ul style="color: var(--font_light_grey);">
   <li style="color: inherit;">You can talk with known persons/ buddies with confidence.</li>
   <li style="color: inherit;">You aren't involved in social activities/social gatherings.</li>
   <li style="color: inherit;">You either haven't been consistent in your goals or haven't even set goals.</li>
