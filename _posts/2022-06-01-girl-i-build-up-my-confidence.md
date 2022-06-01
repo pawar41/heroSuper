@@ -13,7 +13,7 @@ I have social anxiety, I am introvert and find it hard to get friends.
 <br>
 How do I look? Here's my pic below:
 <br>
-<img src="" alt="Shawn P" width="500" height="600">
+<img src="image.jpeg" alt="Shawn P" width="500" height="600">
 <br>
 You can judge the rest.
 </p>
@@ -60,6 +60,35 @@ that don't think you could fake confidence,
 nither acting it out will help! Your Brain is real smart!
 </p>
 
-<h2> h </h2>
+<h2> Let's fuckin solve it! </h2>
 <p class="blog__list">
+Hey Dawg! I know and yourr brain knows it, that you'r in the most fucked up situation. 
+But listen, "There is a WAY Out !".
+It is : You have to work on yourself,
+I mean devotionally, and consistently.
+<br>
+Do one thing consistently, every single day; like for an hour.
+Those five minutes daily shit don't work. 
+It's lazinees and you might don't care about that five minutes walk.
+Trust me on this, devote a hour every single day without fail and you will start restoring your confidence.
+<br>
+It happens simply for the fact that ; You are getting better and for sure your brain feels it.
+Thats the reason, why majority of gym guys are naturally confident.
+<br>
+Here again:
+<ul style="color: var(--font_light_grey);">
+  <li>Do ane hing to improve yourself without fail, everyday. 
+  To get better results, do the activity which is physical in nature like gym.</li>
+  <li>Don't shy out in putting efforts. 
+  Get off your ass from the coutch and put your efforts all in.
+  Work like this is your last opportunity.</li>
+  <li>Mark the day on the calender and reward yourself for it.</li>
+  <li>Dont give up be consistent !!!</li>
+</ul>
 </p>
+
+<h2>This wil automatically restore your confidence;
+You will start feeling that you are way better than others!!!
+<br>
+Peace out!
+</h2>
