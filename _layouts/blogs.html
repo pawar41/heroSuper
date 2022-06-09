@@ -6,42 +6,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- displays site properly based on user's device -->
 
-    <link rel="icon" type="image/png" sizes="32x32" href="./assets/tab_logo.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://live.staticflickr.com/65535/51961690373_9f2f338787_o.png">
 
     <title>heroSuper git | blogs </title>
 
-    <link rel="stylesheet" href="./dist/style.css" />
-    <script defer src="./dist/script.js"></script>
+    <!--<link rel="stylesheet" href="./dist/style.css" />-->
+    <!--<script defer src="./dist/script.js"></script>-->
 
-    <style>
-
-    </style>
+    {% include style.html %}
 </head>
 
 <body>
-        <header class="header">
-            <a href="./" class="header__navmenu__link">
-                <div class="header__brandlogo">
-                    <h1 class="header__brandlogo__title"> heroSuper </h1>
-                    <span class="header__brandlogo__subtitle">community of SuperBeings </span>
-                </div>
-            </a>
-            <nav class="header__navmenu">
-                <input id="header__navmenu__toggle" type="checkbox" />
-                <label class='header__navmenu__label' for="header__navmenu__toggle">
-                    <div class="header__navmenu__button"></div>
-                </label>
-        
-                <ul class="header__navmenu__menu">
-                    <li class="header__navmenu__home header__navmenu__container"> <a href="./" class="header__navmenu__link">
-                            Home </a> </li>
-                    <li class="header__navmenu__blog header__navmenu__container"><a href="./blogs.html"
-                            class="header__navmenu__link">
-                            Blogs </a> </li>
-                    <li class="header__navmenu__follow header__navmenu__container"><a href="./follow.html"
-                            class="header__navmenu__link"> Follow </a> </li>
-        
-                    <!--
+    <header class="header">
+        <a href="./" class="header__navmenu__link">
+            <div class="header__brandlogo">
+                <h1 class="header__brandlogo__title"> heroSuper </h1>
+                <span class="header__brandlogo__subtitle">community of SuperBeings </span>
+            </div>
+        </a>
+        <nav class="header__navmenu">
+            <input id="header__navmenu__toggle" type="checkbox" />
+            <label class='header__navmenu__label' for="header__navmenu__toggle">
+                <div class="header__navmenu__button"></div>
+            </label>
+
+            <ul class="header__navmenu__menu">
+                <li class="header__navmenu__home header__navmenu__container"> <a href="./"
+                        class="header__navmenu__link">
+                        Home </a> </li>
+                <li class="header__navmenu__blog header__navmenu__container"><a href="./blogs.html"
+                        class="header__navmenu__link">
+                        Blogs </a> </li>
+                <li class="header__navmenu__follow header__navmenu__container"><a href="./follow.html"
+                        class="header__navmenu__link"> Follow </a> </li>
+
+                <!--
                         <li class="header__navmenu__donate header__navmenu__container"><a href="#"
                                 class="header__navmenu__link">
                                 <form>
@@ -53,10 +52,10 @@
                         <li class="header__navmenu__community header__navmenu__container"><a href="#"
                                 class="header__navmenu__link"> Community </a> </li>
                         -->
-                </ul>
-        
-            </nav>
-        </header>
+            </ul>
+
+        </nav>
+    </header>
 
     <main>
         <div class="bg__container">
@@ -70,7 +69,7 @@
 
                             {% for post in site.posts %}
                             <div class="blog__list" style="padding: 20px;">
-                                <a href="{{ post.url }}" id="anchor_clean" class="color_white">
+                                <a href="{{ site.baseurl }}{{ post.url }}" id="anchor_clean" class="color_white">
                                     {{ post.title}}</a>
                             </div>
                             {% endfor %}
@@ -110,7 +109,7 @@
                         Community
                     </div>
                     <div class="community__gridparent">
-        
+
                         <div class="community__grid">
                             <div class="community__grid__container">
                                 <a target="_blank" href={{ site.instagram }} id="anchor_clean">
@@ -259,7 +258,7 @@
                         <div class="community__grid">
                             <div class="community__grid__container">
                                 <a target="_blank" href={{ site.linkedin }} id="anchor_clean">
-        
+
                                     <span class="grid__container__logo">
                                         <svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20"
@@ -290,7 +289,7 @@
                         <div class="community__grid">
                             <div class="community__grid__container">
                                 <a target="_blank" href={{ site.tumblr }} id="anchor_clean">
-        
+
                                     <span class="grid__container__logo">
                                         <svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20"
@@ -319,7 +318,7 @@
                         <div class="community__grid">
                             <div class="community__grid__container">
                                 <a target="_blank" href={{ site.hashnode }} id="anchor_clean">
-        
+
                                     <span class="grid__container__logo">
                                         <svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20"
@@ -348,7 +347,7 @@
                         <div class="community__grid">
                             <div class="community__grid__container">
                                 <a target="_blank" href={{ site.reddit }} id="anchor_clean">
-        
+
                                     <span class="grid__container__logo">
                                         <svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20"
@@ -377,7 +376,7 @@
                         <div class="community__grid">
                             <div class="community__grid__container">
                                 <a target="_blank" href={{ site.quora }} id="anchor_clean">
-        
+
                                     <span class="grid__container__logo">
                                         <svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20"
@@ -410,7 +409,7 @@
                         <div class="community__grid">
                             <div class="community__grid__container">
                                 <a target="_blank" href={{ site.github }} id="anchor_clean">
-        
+
                                     <span class="grid__container__logo">
                                         <svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20"
@@ -436,11 +435,11 @@
                                 </a>
                             </div>
                         </div>
-        
+
                         <div class="community__grid">
                             <div class="community__grid__container">
                                 <a target="_blank" href={{ site.developers }} id="anchor_clean">
-        
+
                                     <span class="grid__container__logo">
                                         <svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20"
@@ -479,9 +478,9 @@
                     </form>
                 </div>
             </div>
-        
+
             </div>
-        
+
         </footer>
 
     </main>
