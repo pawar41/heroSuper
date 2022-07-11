@@ -24,12 +24,12 @@ kramdown:
 title: shawnp410
 
 url: "https://pawar41.github.io/heroSuper/" 
-plugins:
-  - jekyll-sitemap
+#plugins:
+#  - jekyll-sitemap
 
 
 #domain: github heroSuper      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 #url: https://pawar41.github.io/heroSuper/  # the base hostname and protocol for your site, e.g. http://example.com
     # place folder name if the site is served in a sub
-permalink: pretty
+#permalink: pretty
 # VERIFING DID NOT NEED CLONING OR PUSHING TO GH-PAGES
