@@ -1,3 +1,4 @@
 ---
 layout: blogs
+permalink: /blogs/
 ---

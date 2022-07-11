@@ -1,3 +1,4 @@
 ---
 layout: follow
+permalink: /follow/
 ---
