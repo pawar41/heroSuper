@@ -31,3 +31,5 @@ plugins:
 #domain: github heroSuper      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 #url: https://pawar41.github.io/heroSuper/  # the base hostname and protocol for your site, e.g. http://example.com
     # place folder name if the site is served in a sub
+
+# permalink: pretty
