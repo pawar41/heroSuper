@@ -18,7 +18,7 @@
 
 <body>
     <header class="header">
-        <a href="./" class="header__navmenu__link">
+        <a href={% link index.md %} class="header__navmenu__link">
             <div class="header__brandlogo">
                 <h1 class="header__brandlogo__title"> heroSuper </h1>
                 <span class="header__brandlogo__subtitle">community of SuperBeings </span>
@@ -31,13 +31,13 @@
             </label>
 
             <ul class="header__navmenu__menu">
-                <li class="header__navmenu__home header__navmenu__container"> <a href="./"
+                <li class="header__navmenu__home header__navmenu__container"> <a href={% link index.md %}
                         class="header__navmenu__link">
                         Home </a> </li>
-                <li class="header__navmenu__blog header__navmenu__container"><a href="./blogs.html"
+                <li class="header__navmenu__blog header__navmenu__container"><a href={% link blogs.md %}
                         class="header__navmenu__link">
                         Blogs </a> </li>
-                <li class="header__navmenu__follow header__navmenu__container"><a href="./follow.html"
+                <li class="header__navmenu__follow header__navmenu__container"><a href={% link follow.md %}
                         class="header__navmenu__link"> Follow </a> </li>
 
                 <!--

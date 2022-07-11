@@ -31,12 +31,13 @@
             </label>
 
             <ul class="header__navmenu__menu">
-                <li class="header__navmenu__home header__navmenu__container"> <a href="./" class="header__navmenu__link">
+                <li class="header__navmenu__home header__navmenu__container"> <a href={% link index.md %} 
+			class="header__navmenu__link">
                         Home </a> </li>
-                <li class="header__navmenu__blog header__navmenu__container"><a href="./blogs.html"
+                <li class="header__navmenu__blog header__navmenu__container"><a href={% link blogs.md %}
                         class="header__navmenu__link">
                         Blogs </a> </li>
-                <li class="header__navmenu__follow header__navmenu__container"><a href="./follow.html"
+                <li class="header__navmenu__follow header__navmenu__container"><a href={% link follow.md %}
                         class="header__navmenu__link"> Follow </a> </li>
 
                 <!--
@@ -97,7 +98,7 @@
 
                 </div>
 
-                <a style="color: #2b3b3f" href="./blogs.html" id="anchor_clean" > all posts </a>
+                <a style="color: #2b3b3f" href={% link blogs.md %} id="anchor_clean" > all posts </a>
 
                 <!-- <div class="blog__list">
                     <a href="#" id="anchor_clean">my first blog </a>
